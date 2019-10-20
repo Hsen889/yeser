@@ -1,7 +1,0 @@
-# yeser
-
-# 鳳凰城-1
-
-ssr://MTI5LjE0Ni40NS44NTozMjk4ODphdXRoX2FlczEyOF9zaGExOmFlcy0yNTYtY3RyOnBsYWluOk9UbFdVRk1oT1RJek16YzFNakkvP29iZnNwYXJhbT0mcmVtYXJrcz1UM0poWTJ4bElGQm9iMjVsYm1sNElGTlRVaTB4Jmdyb3VwPVQzSmhZMnhsSUZCb2IyNWxibWw0SUZOVFVpMHg
-
-# 鳳凰城-2
